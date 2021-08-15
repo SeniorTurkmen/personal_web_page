@@ -1,0 +1,17 @@
+{
+  "@@locale": "tr",
+  "intro_new_key": "İçe aktarma sırasında oluşturulan yeni anahtarlar otomatik olarak etiketlenebilir, böylece yöneticiler ve çevirmenler hangi tuşların çeviriyi kaçırdığını bilir_",
+  "@intro_new_key": {},
+  "intro_not_reviewed_text": "Bu, çevirinin gözden geçirilmediğini gösteren bildirim içeren bir çeviridir_",
+  "@intro_not_reviewed_text": {},
+  "intro_too_long_text": "Bu, metnin amaçlanan uzunluğunu aştığını gösteren bildirim içeren bir çeviridir_",
+  "@intro_too_long_text": {},
+  "intro_welcome": "Merhaba {firstName}, Localizely hoş geldiniz! Bu özellikleri keşfedebileceğiniz örnek bir projedir_",
+  "@intro_welcome": {
+    "description": "This is a description of a key so that the translator better understands the context"
+  },
+  "page_home_counter": "Düğmeye defalarca bastın_",
+  "@page_home_counter": {},
+  "page_home_title": "Örnek proje Ana Sayfası",
+  "@page_home_title": {}
+}
